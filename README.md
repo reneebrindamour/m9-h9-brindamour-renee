@@ -1,1 +1,3 @@
-# m9-h9-brindamour-renee
+Module 9, Assignment 9: 
+
+This was another enjoyable assignment for me. I have worked with media queries in the past, so the concept isn't new to me. However, it was nice to have a refresher and practice them again. I didn't encounter any significant complications or hardships with this assignment. I can recall that the first time I ever worked with media queries a few years ago, it left me in tears. But, not this time.
